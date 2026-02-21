@@ -199,10 +199,6 @@ The implementation uses:
 
 The DQN agent uses experience replay to break correlation between consecutive experiences and a target network to stabilize training. The ε-greedy exploration strategy balances exploration (trying new actions) with exploitation (using learned knowledge).
 
-## License
+## Usage
 
-Free to use and modify for learning purposes.
-
-## Credits
-
-Inspired by classic reinforcement learning racing games and tutorials.
+Free to use and modify for learning purposes. Inspired by classic reinforcement learning racing games and tutorials.
