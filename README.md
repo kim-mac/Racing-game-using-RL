@@ -64,7 +64,7 @@ Run the training script to start the learning process:
 python car_racing_rl.py
 ```
 
-**Option 2: Fast Training (recommended)**
+**Option 2: Fast Training **
 
 Use the fast version with speed control:
 
