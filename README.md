@@ -198,7 +198,3 @@ The implementation uses:
 - **NumPy**: For numerical computations
 
 The DQN agent uses experience replay to break correlation between consecutive experiences and a target network to stabilize training. The ε-greedy exploration strategy balances exploration (trying new actions) with exploitation (using learned knowledge).
-
-## Usage
-
-Free to use and modify for learning purposes. Inspired by classic reinforcement learning racing games and tutorials.
