@@ -1,4 +1,4 @@
-# 2D Car Racing Game with Reinforcement Learning
+# 2D Car Racing Game with Reinforcement Learning.
 
 A complete implementation of a 2D car racing game where an AI agent learns to drive around a track using Deep Q-Learning (DQN), without any manual instructions.
 
