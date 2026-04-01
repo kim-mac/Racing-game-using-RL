@@ -2,7 +2,7 @@
 
 A complete implementation of a 2D car racing game where an AI agent learns to drive around a track using Deep Q-Learning (DQN), without any manual instructions.
 
-## Features
+## Features.
 
 - **2D Physics Simulation**: Realistic car physics with acceleration, friction, and rotation
 - **Deep Q-Learning (DQN)**: Neural network-based RL agent that learns from experience
@@ -10,7 +10,7 @@ A complete implementation of a 2D car racing game where an AI agent learns to dr
 - **Visual Training**: Watch the car learn in real-time with Pygame rendering
 - **No Human Input**: The car learns completely autonomously through trial and error
 
-## How It Works
+## How It Works.
 
 ### State Space (8 values)
 - 5 radar distance measurements (normalized)
